@@ -1,0 +1,28 @@
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+running 8 tests
+test test_client_add_request ... ok
+test test_client_add_request_with_negative_numbers ... ok
+test test_client_connection ... ok
+test test_client_echo_message ... ok
+test test_client_send_message_after_disconnect ... ok
+test test_multiple_clients ... ok
+test test_multiple_echo_messages ... ok
+test test_server_handling_large_number_of_messages ... ok
+
+test result: ok. 8 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 5.68s
+
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
